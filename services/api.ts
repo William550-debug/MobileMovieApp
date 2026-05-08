@@ -26,5 +26,3 @@ export const fetchMovies = async ({ query }: { query: string }) => {
 
   return data.results;
 };
-
-//discover/movie
